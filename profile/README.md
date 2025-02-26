@@ -16,7 +16,7 @@ New competitions are often, and the next event is always on the horizon.
 - https://jabbercracky.com/swagger
 
 ## API Client Repositories
-- Coming soon...
+- [Coming soon...](https://github.com/Jabbercracky/Jabbercracky-Autosubmitters)
 
 
 > [!IMPORTANT]  
