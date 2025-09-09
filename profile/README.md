@@ -6,7 +6,7 @@
 # Huzzah!
  Welcome to the greatest hash-cracking adventure of the eon.
 
-The Jabbercracky is a community hash cracking hub for people of all skill levels. We host realistic, time-locked cryptographic hash cracking events with an arcade theme that are entertaining and competitive. All the hashes we generate for safe competition are completely synthetic. Crack hashes, collect loot, and climb the leaderboard in this one-of-a-kind experience. 
+Jabbercracky is a community hash-cracking hub for people of all skill levels. We host realistic, time-locked cryptographic hash cracking events with an arcade theme that are entertaining and competitive. All the hashes we generate for safe competition are completely synthetic. Crack hashes, collect loot, and climb the leaderboard in this one-of-a-kind experience. 
 
 ## Site Link:
 - https://jabbercracky.com
