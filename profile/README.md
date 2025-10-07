@@ -1,12 +1,12 @@
 <h1 align="center">Welcome to the Jabbercracky</h1>
 <p align="center">
-  <img width="256" height="256" src="https://jabbercracky.com/static/img/favicon.ico">
+  <img width="200" height="200" src="https://jabbercracky.com/static/img/favicon.ico">
 </p>
 
 # Huzzah!
- Welcome to the greatest hash-cracking adventure of the eon.
-
-Jabbercracky is a community hash-cracking hub for people of all skill levels. We host realistic, time-locked cryptographic hash cracking events with an arcade theme that are entertaining and competitive. All the hashes we generate for safe competition are completely synthetic. Crack hashes, collect loot, and climb the leaderboard in this one-of-a-kind experience. 
+Brace yourself for the ultimate hash-cracking showdown.
+ 
+Jabbercracky is the premier social arena where cyber defenders, red-teamers, and curious newcomers alike master real cryptographic-hash recovery through high-octane, time-locked challenges. Every hash is 100% synthetic, so you can push your skills to the edge without risking a thing. Race the clock, collect loot, and battle your peers on a live leaderboard that only a select few ever reach. Friendly enough for anyone in or learning security to join, fierce enough to crown the true elite. Log in, team up, and let's get cracking.
 
 ## Site Link:
 - https://jabbercracky.com
