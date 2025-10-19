@@ -15,7 +15,7 @@ Hashcracky is created by cybersecurity professionals and teaches the skill of ha
 
 ## Are you ready to climb?
 
-Every hash is synthetic, so you can push your skills to the edge. Race the clock, collect loot, and battle your peers on a live leaderboard that only a select few ever reach. Friendly enough for anyone in or learning security to join, fierce enough to crown the true elite. Log in, team up, and let's get cracking.
+Every hash is synthetic, so you can push your skills to the edge. Race the clock, collect loot, and battle your peers on a live leaderboard that only a select few ever reach. Friendly enough for anyone learning security to join, fierce enough to crown the true elite. Log in, team up, and let's get cracking.
 
 ## Site Link:
 - https://hashcracky.com
