@@ -9,7 +9,7 @@ Brace yourself for the ultimate hash-cracking showdown.
 
 ## Welcome to the Cracky.
 
-Hashcracky is the premier social arena where cyber defenders, red-teamers, and curious newcomers alike master cryptographic-hash recovery through high-octane, time-locked challenges and event.
+Hashcracky is the premier social arena where cyber defenders, red-teamers, and curious newcomers alike master cryptographic-hash recovery through high-octane, time-locked challenges and events.
 
 Hashcracky is created by cybersecurity professionals and teaches the skill of hash recovery. We focus on teaching the methodologies of hash cracking and providing a safe environment to study cybersecurity.
 
