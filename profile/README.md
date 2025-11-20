@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to the Hashcracky</h1>
 <p align="center">
-  <img width="200" height="200" src="https://hashcracky.com/static/img/favicon.ico">
+  <img width="200" height="200" src="https://hashcracky.com/static/img/logo.png">
 </p>
 
 # Huzzah!
